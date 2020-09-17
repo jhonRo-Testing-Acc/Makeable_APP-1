@@ -27,6 +27,8 @@ Ok guys if u are able to read this, u guys r doing great. we need to create a on
 
 This project is a starting point for a Flutter application.
 
+some resources:
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
